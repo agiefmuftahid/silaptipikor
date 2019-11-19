@@ -1,2 +1,1 @@
-# projectkajati
-Project#1 Kejaksaan Tinggi, Sistem Pengaduan Online
+Project#1 codename:SILAPTIPIKOR,acronym:Sistem Informasi Laporan Tindak Pidana Korupsi,client:Kajati Bengkulu
